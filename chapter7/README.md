@@ -8,4 +8,4 @@ We'll use classes to add mouse drawing to our program.
 
 Add a way to set the color of the line you're drawing.
 
-Make the line thicker.
+Can you figure out a way to make the line thicker?
