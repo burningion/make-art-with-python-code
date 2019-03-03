@@ -9,3 +9,11 @@ Remember, you can save the file in an editor, and then just run:
 ```
 $ python3 first.py
 ```
+
+The program will exit when you click the close button on the drawing window.
+
+## Challenges
+
+Try drawing a triangle.
+
+Try drawing a house.
