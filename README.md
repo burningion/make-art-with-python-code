@@ -1,5 +1,7 @@
 # Make Art with Python Code
 
+![Chapter 6 Program](https://raw.githubusercontent.com/burningion/make-art-with-python-code/master/images/chapter6.gif)
+
 This repository holds all the Python 3 code for my book, [Make Art with Python](https://www.makeartwithpython.com/book/).
 
 ## Requirements
