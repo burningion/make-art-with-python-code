@@ -3,6 +3,7 @@ import pygame.gfxdraw
 
 import math
 pygame.init()
+pygame.display.set_caption("Make Art with Python - Chapter 6: Mirror Rainbow")
 
 screenWidth = 400
 screenHeight = 400
