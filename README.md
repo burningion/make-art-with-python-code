@@ -4,7 +4,7 @@
 
 This repository holds all the Python 3 code for my book, [Make Art with Python](https://www.makeartwithpython.com/book/).
 
-Get a copy from Amazon [here](https://amzn.to/2H4BvhV).
+You can get a copy from Amazon [here](https://amzn.to/2H4BvhV).
 
 ## Requirements
 
