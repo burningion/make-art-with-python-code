@@ -4,6 +4,8 @@
 
 This repository holds all the Python 3 code for my book, [Make Art with Python](https://www.makeartwithpython.com/book/).
 
+Get a copy from Amazon [here](https://amzn.to/2H4BvhV).
+
 ## Requirements
 
 In order to run these programs, you'll need to have Python3 and Pygame installed on your computer. 
