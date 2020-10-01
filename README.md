@@ -10,7 +10,7 @@ You can get a copy from Amazon [here](https://amzn.to/2H4BvhV).
 
 In order to run these programs, you'll need to have Python3 and Pygame installed on your computer. 
 
-It's also easiest to run these programs from Python within a terminal or shell. I'll put up a video showing how to install Python and Pygame in Linux, MacOS, and Windows soon.
+It's also easy to run these programs from Python within a terminal or shell. I'll put up a video showing how to install Python and Pygame in Linux, MacOS, and Windows soon.
 
 From there, you simply change into the chapter's directory, and `python3 thefile.py` to run the program.
 
